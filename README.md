@@ -2,7 +2,7 @@
 
 rm -rf AURI
 
-gitclone https://github.com/THEAURILKS/AURI.git
+git clone https://github.com/THEAURILKS/AURI.git
 
 cd AURI
 
